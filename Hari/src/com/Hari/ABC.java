@@ -1,5 +1,5 @@
 package com.Hari;
-class Ab{
+class A{
 static void show()
 {
 	System.out.println("play");
